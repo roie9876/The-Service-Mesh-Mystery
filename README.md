@@ -27,7 +27,7 @@ Application Architectures are ever changing. Over the past few years, the applic
 
 <!-- wp:image {"id":2035} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/microservice-before-and-after.png" alt="" class="wp-image-2035"></figure>
+![](2019-12-02-10-45-55.png)
 
 <!-- /wp:image -->
 
@@ -73,7 +73,7 @@ decommission parts of their application quickly and independently.
 
 <!-- wp:image {"id":2016} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/container-before-and-after-1024x614.png" alt="" class="wp-image-2016"></figure>
+![](2019-12-02-10-46-49.png)
 
 <!-- /wp:image -->
 
@@ -106,14 +106,13 @@ While the change from monolithic apps development to microservices architecture 
 
 <!-- wp:image {"id":2021} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/microservice-challanges-1024x650.png" alt="" class="wp-image-2021"></figure>
+
 
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
-source:  
-[http://blog.camunda.com/post/2018/09/microservices-orchestration-survey-results-2018/](http://blog.camunda.com/post/2018/09/microservices-orchestration-survey-results-2018/)
+![](2019-12-02-10-47-20.png)
 
 <!-- /wp:paragraph -->
 
@@ -153,7 +152,7 @@ The abstraction “magic” of the service mesh is realized through its data pla
 
 <!-- wp:image {"id":2023} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/proxy-concept.png" alt="" class="wp-image-2023"></figure>
+![](2019-12-02-10-48-38.png)
 
 <!-- /wp:image -->
 
@@ -170,7 +169,7 @@ In the image below, service A communicates with service B via a proxy.
 
 <!-- wp:image {"id":2024} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/proxy-to-proxy.png" alt="" class="wp-image-2024"></figure>
+![](2019-12-02-10-49-02.png)
 
 <!-- /wp:image -->
 
@@ -283,7 +282,7 @@ The cert component (Certificate authority server) generates certificates for eac
 
 <!-- wp:image {"id":2026} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/sm-controll-plane-vs-data-plane.png" alt="" class="wp-image-2026"></figure>
+![](2019-12-02-10-49-37.png)
 
 <!-- /wp:image -->
 
@@ -301,7 +300,7 @@ In a monolithic architecture, communications between different methods\functions
 
 <!-- wp:image {"id":2020} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/From-Monolithic-to-Distribute-Services-1024x501.png" alt="" class="wp-image-2020"></figure>
+![](2019-12-02-10-49-58.png)
 
 <!-- /wp:image -->
 
@@ -336,7 +335,7 @@ described in the following list:
 
 <!-- wp:image {"id":2015} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/clinets-libraries.png" alt="" class="wp-image-2015"></figure>
+![](2019-12-02-10-50-26.png)
 
 <!-- /wp:image -->
 
@@ -375,7 +374,7 @@ there?
 
 <!-- wp:image {"id":2014} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/client-libraries-difrrent-lang.png" alt="" class="wp-image-2014"></figure>
+![](2019-12-02-10-50-50.png)
 
 <!-- /wp:image -->
 
@@ -405,7 +404,7 @@ of the resiliency inside the proxy is not Netflix OSS but the functionality is s
 
 <!-- wp:image {"id":2022} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/move-the-clinet-libraries-function-to-the-proxy.png" alt="" class="wp-image-2022"></figure>
+![](2019-12-02-10-51-15.png)
 
 <!-- /wp:image -->
 
@@ -417,7 +416,7 @@ When we move the service resiliency functionality to the proxy we decouple it fr
 
 <!-- wp:image {"id":2013} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/app-resiliency-with-the-proxy.png" alt="" class="wp-image-2013"></figure>
+![](2019-12-02-10-51-32.png)
 
 <!-- /wp:image -->
 
@@ -450,7 +449,7 @@ coming from the users to version 2 of the apps.
 
 <!-- wp:image {"id":2031} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/tranditional-upgrade.png" alt="" class="wp-image-2031"></figure>
+![](2019-12-02-10-51-52.png)
 
 <!-- /wp:image -->
 
@@ -472,7 +471,7 @@ of traffic.
 
 <!-- wp:image {"id":2028} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/traffic-management-3-pods.png" alt="" class="wp-image-2028"></figure>
+![](2019-12-02-10-52-12.png)
 
 <!-- /wp:image -->
 
@@ -524,7 +523,7 @@ goal.
 
 <!-- wp:image {"id":2029} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/traffic-management-4-pod-no-proxy.png" alt="" class="wp-image-2029"></figure>
+![](2019-12-02-10-52-30.png)
 
 <!-- /wp:image -->
 
@@ -549,7 +548,7 @@ percent of the overall based on the user identity or event browser type.
 
 <!-- wp:image {"id":2030} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/traffic-manangement-with-proxy.png" alt="" class="wp-image-2030"></figure>
+![](2019-12-02-10-52-44.png)
 
 <!-- /wp:image -->
 
@@ -578,7 +577,7 @@ attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)”.
 
 <!-- wp:image {"id":2025} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/security-aspects.png" alt="" class="wp-image-2025"></figure>
+![](2019-12-02-10-53-10.png)
 
 <!-- /wp:image -->
 
@@ -652,7 +651,7 @@ affect the code or the behavior of the application in any way, and that’s the 
 
 <!-- wp:image {"id":2027} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/sm-encryption.png" alt="" class="wp-image-2027"></figure>
+![](2019-12-02-10-53-30.png)
 
 <!-- /wp:image -->
 
@@ -714,7 +713,7 @@ chock point.
 
 <!-- wp:image {"id":2018} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/distributed-tracing.png" alt="" class="wp-image-2018"></figure>
+![](2019-12-02-10-54-14.png)
 
 <!-- /wp:image -->
 
@@ -740,7 +739,7 @@ The images below illustrates the complexity of the relations between microservic
 
 <!-- wp:image {"id":2012} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/amazon-and-netflix.png" alt="" class="wp-image-2012"></figure>
+![](2019-12-02-10-54-34.png)
 
 <!-- /wp:image -->
 
@@ -788,7 +787,7 @@ Let’s take for example application built from two microservice developed in No
 
 <!-- wp:image {"id":2019} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/dt-withhout-proxy.png" alt="" class="wp-image-2019"></figure>
+![](2019-12-02-10-54-58.png)
 
 <!-- /wp:image -->
 
@@ -800,7 +799,7 @@ Again, the ultimate answer is an abstraction and the use of Service mesh data pl
 
 <!-- wp:image {"id":2017} -->
 
-<figure class="wp-block-image"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/df-with-proxy.png" alt="" class="wp-image-2017"></figure>
+![](2019-12-02-10-55-16.png)
 
 <!-- /wp:image -->
 

@@ -1,45 +1,4 @@
----
-layout: post
-title: The Service Mesh Mystery
-date: 2019-01-02 15:24:41.000000000 +02:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Kubernetes
-- Open Source
-- Service Mesh
-tags: []
-meta:
-  _publicize_twitter_user: "@roie9876"
-  _edit_last: '1'
-  _oembed_b6ecb90abe597d6e936d17cd76359b88: '<blockquote class="wp-embedded-content"
-    data-secret="rbc9HfudXo"><a href="http://cloud-abstract.com/service-mesh-is-just-another-form-of-virtualization/">Service
-    mesh is just another form of virtualization</a></blockquote><iframe class="wp-embedded-content"
-    sandbox="allow-scripts" security="restricted" style="position: absolute; clip:
-    rect(1px, 1px, 1px, 1px);" src="http://cloud-abstract.com/service-mesh-is-just-another-form-of-virtualization/embed/#?secret=rbc9HfudXo"
-    data-secret="rbc9HfudXo" width="600" height="338" title="&#8220;Service mesh is
-    just another form of virtualization&#8221; &#8212; Cloud-Abstract" frameborder="0"
-    marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-  _oembed_time_b6ecb90abe597d6e936d17cd76359b88: '1546427639'
-  _oembed_a23d3e49a222223b19a3bde42c692e7c: "{{unknown}}"
-  _wpas_done_all: '1'
-  _jetpack_related_posts_cache: a:2:{s:32:"37550b67d263a3ce789993dc25046c5f";a:2:{s:7:"expires";i:1575169349;s:7:"payload";a:6:{i:0;a:1:{s:2:"id";i:2076;}i:1;a:1:{s:2:"id";i:1827;}i:2;a:1:{s:2:"id";i:1939;}i:3;a:1:{s:2:"id";i:568;}i:4;a:1:{s:2:"id";i:550;}i:5;a:1:{s:2:"id";i:1509;}}}s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1575188644;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2076;}i:1;a:1:{s:2:"id";i:1827;}i:2;a:1:{s:2:"id";i:1939;}}}}
-author:
-  login: roie9876@gmail.com
-  email: roie9876@gmail.com
-  display_name: roie9876@gmail.com
-  first_name: Roie
-  last_name: Ben Haim
-permalink: "/2019/01/the-service-mesh-mystery/"
----
-<!-- wp:paragraph -->
 
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 
 Authored by:  
 Roie Ben-haim (Twitter: @roie9876)   
